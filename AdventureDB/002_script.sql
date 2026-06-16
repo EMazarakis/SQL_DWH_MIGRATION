@@ -1,3 +1,4 @@
+-- This is a query that joins 2 tables
 select a.ProductKey
 		, a.CustomerKey
 		, a.SalesOrderNumber
